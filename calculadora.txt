@@ -1,0 +1,13 @@
+
+int n1 = 0;
+int n2 = 0;
+
+Console.Writeline("Digite o 1º número: ");
+n1 =  Console.ReadLine();
+
+Console.Writeline("Digite o 2º número: ");
+n2 =  Console.ReadLine();
+
+Console.Writeline("A soma dos 2 números é: "+n1+n2);
+
+Console.ReadKey();
